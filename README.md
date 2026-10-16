@@ -1,5 +1,5 @@
 Questions, suggestions, and support requests should be directed to:  
-L Barron, MSLS / Michelle Rodell
+L Barron, MSLS / Michelle Rodell  
 Health Sciences Library  
 University of North Carolina at Chapel Hill  
 L_Barron@unc.edu / mrodell@unc.edu
